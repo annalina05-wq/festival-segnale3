@@ -7,10 +7,10 @@
 }
 /* Scelte comuni: ogni regola usa var() per richiamarne il valore. */
 :root {
-  --colore-primario: #27664e;
-  --colore-primario-scuro: #17432f;
-  --colore-sfondo: #f5f2e9;
-  --colore-testo: #202923;
+  --colore-primario: #e55604;
+  --colore-primario-scuro: #26577c;
+  --colore-sfondo: #ebe4d1;
+  --colore-testo: #26577c;
   --font-testo: "Finlado", Arial, sans-serif;
   --font-titoli: "Fraunces", Georgia, serif;
 }
